@@ -6,8 +6,8 @@ title_separator          : "-"
 name                     : &name "Ayoob Davoodi"
 description              : &description "Mechatronics and Robotic Researcher"
 url                      : "https://ayooubdavoodi.github.io"
-baseurl                  : "/ayoobdavoodi.github.io"
-repository               : "ayooubdavoodi/ayoobdavoodi.github.io"
+baseurl                  : ""
+repository               : "ayooubdavoodi/ayooubdavoodi.github.io"
 
 # Site Author
 author:
