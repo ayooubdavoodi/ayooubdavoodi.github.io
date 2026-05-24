@@ -43,6 +43,72 @@
 ;
 
 
+/* ===== Typography: Inter font ===== */
+
+body,
+.masthead,
+.page__content,
+.sidebar,
+.author__name,
+.author__bio,
+.author__urls a,
+.nav__title,
+input, button, select, textarea {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+}
+
+
+/* ===== Sidebar & Author Profile ===== */
+
+.author__avatar img {
+  border: 3px solid #007acc !important;
+  padding: 3px !important;
+  box-shadow: 0 0 0 4px rgba(0, 122, 204, 0.12);
+  transition: box-shadow 0.2s ease;
+}
+
+.author__avatar img:hover {
+  box-shadow: 0 0 0 6px rgba(0, 122, 204, 0.2);
+}
+
+.author__name {
+  font-weight: 800 !important;
+  font-size: 1.05rem !important;
+  color: #111 !important;
+  letter-spacing: -0.01em;
+}
+
+.author__bio {
+  color: #555 !important;
+  font-size: 0.88rem !important;
+  line-height: 1.45 !important;
+}
+
+.author__urls a {
+  font-size: 0.88rem !important;
+  color: #444;
+  transition: color 0.15s ease, padding-left 0.15s ease;
+}
+
+.author__urls a:hover {
+  color: #007acc !important;
+  text-decoration: none !important;
+  padding-left: 3px;
+}
+
+.author__urls .fas,
+.author__urls .fab,
+.author__urls .ai {
+  color: #007acc;
+}
+
+
 /* ===== Publications ===== */
 
 .pub-item {
