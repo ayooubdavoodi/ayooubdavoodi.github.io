@@ -50,7 +50,7 @@ skills:
 
 projects:
   - name: AIRCARE
-    url: https://www.kuka.com
+    url: https://aircareproject.eu/
     role: Robotic and Control Researcher
     startDate: Dec 2024
     endDate: Present
@@ -61,7 +61,7 @@ projects:
 
   - name: ULTRATOPIA
     role: Team Lead
-    url: https://www.kuka.com
+    url: https://www.kuka.com/innovationaward2025
     startDate: Oct 2024
     endDate: Nov 2025
     description: KUKA Innovation Award-winning project on ultrasound robot-assisted drilling.
@@ -70,7 +70,7 @@ projects:
       - Designed a dual-arm collaborative robotic platform for ultrasound-guided drilling.
 
   - name: FAROS
-    url: https://www.kuka.com
+    url: https://h2020faros.eu/
     role: Robotic and Control Researcher
     startDate: Jan 2021
     endDate: Jun 2024
