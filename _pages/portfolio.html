@@ -69,12 +69,6 @@ author_profile: true
           <p class="experience-meta">{{ post.organisation }}</p>
         {% endif %}
 
-<!--         {% if post.image %}
-          <div class="project-image-timeline">
-            <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-          </div>
-        {% endif %} -->
-
         {% if post.excerpt %}
           <p class="experience-excerpt">
             {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
