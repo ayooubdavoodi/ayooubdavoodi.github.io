@@ -1,6 +1,6 @@
-# ayoobdavoodi.github.io
+# ayooubdavoodi.github.io
 
-Personal academic website for [Ayoob Davoodi](https://ayoobdavoodi.github.io), Mechatronics and Robotics Researcher at KU Leuven.
+Personal academic website for [Ayoob Davoodi](https://ayooubdavoodi.github.io), Mechatronics and Robotics Researcher at KU Leuven.
 
 Built with [Jekyll](https://jekyllrb.com) using a customized [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme. Deployed automatically to GitHub Pages via GitHub Actions.
 
